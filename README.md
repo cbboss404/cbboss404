@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @cbboss404
+###   `👋 Hi, I’m @cbboss404`
+***
+
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#/C++/Html/Javar/Css
 - 💞️ I’m looking to collaborate on ...
