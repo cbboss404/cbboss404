@@ -1,24 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nguyen Trung Hieu (aka Rikikudo)</h1>
-<h3 align="center">A passionate web developer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Nguyễn Phong Phú</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trunghieu99tt&label=Profile%20views&color=0e75b6&style=flat" alt="trunghieu99tt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cbboss404&label=Profile%20views&color=0e75b6&style=flat" alt="cbboss404" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trunghieu99tt" alt="trunghieu99tt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cbboss404" alt="cbboss404" /></a> </p>
 
-- 🌱 I’m currently learning **Java and NodeJS**
+- 🌱 I’m currently learning **C# and Java**
 
-- 👨‍💻 All of my projects are available at [https://rikikudo.herokuapp.com/](https://rikikudo.herokuapp.com/)
+- 💬 Ask me about 
 
-- 📝 I regularly write articles on [https://codethisshit.vercel.app/](https://codethisshit.vercel.app/)
-
-- 💬 Ask me about **ReactJS, Javascript, HTML, CSS**
-
-- 📫 How to reach me **trunghieu99tt@gmail.com**
+- 📫 How to reach me [Gmail](phongphu1042@gmail.com) | <a href="https://fb.com/1042phongphu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cbboss404" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rikikudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikikudo" height="30" width="40" /></a>
-<a href="https://fb.com/rikikudo99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rikikudo99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rikikudo" target="blank">![image](https://user-images.githubusercontent.com/72242060/139426577-9ee45126-e4ed-40e6-bdf1-be48a5f5c56c.png)<img align="center" src="" alt="rikikudo" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
