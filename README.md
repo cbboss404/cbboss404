@@ -18,11 +18,10 @@
 <a href="https://github.com/cbboss404/cbboss404">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbboss404&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/cbboss404/cbboss404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cbboss404&show_icons=true&line_height=27&count_private=true&title_color=00B2BF&text_color=000000&icon_color=00B2BF&bg_color=ffffff" alt="cbboss404's GitHub Stats" />
-</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbboss404&" alt="cbboss404" /></p>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbboss404&show_icons=true&theme=cobalt)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbboss404&"  alt="cbboss404" /></p>
 © 2021 GitHub, Inc.
 Terms
 Privacy
@@ -35,4 +34,6 @@ API
 Training
 Blog
 About
+
+
 
