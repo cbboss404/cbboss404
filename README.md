@@ -8,7 +8,7 @@
 
 - 💬 Ask me about [Comemt](https://github.com/cbboss404/cbboss404/discussions)
 
-- 📫 How to reach me <a href="phongphu1042@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72242060/139431871-cc97ad6a-11f0-4969-973b-84eedebd0590.png" height="30" width="" /></a> | <a href="https://fb.com/1042phongphu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cbboss404" height="30" width="40" /></a>
+- 📫 How to reach me [<img align="center" src="https://user-images.githubusercontent.com/72242060/139431871-cc97ad6a-11f0-4969-973b-84eedebd0590.png" height="30" width="" />](phongphu1042@gmail.com) | <a href="https://fb.com/1042phongphu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cbboss404" height="30" width="40" /></a>
 
 
 
