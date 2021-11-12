@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Phong Phú</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cbboss404&label=Profile%20views&color=0e75b6&style=flat" alt="cbboss404" /> </p>
+<p align = "center">
+  <img width = "140" src = "https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align = "center">Hi 👋, I'm Nguyễn Phong Phú </h2>
+</p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=cbboss404&label=Profile%20views&color=0e75b6&style=flat" alt="cbboss404" /> 
+  <a href="https://github.com/sponsors/ryo-ma">
+    <img src = "https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" /> 
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cbboss404" alt="cbboss404" /></a> </p>
+<p align = "center">
+  <img alig src = "https://github-profile-trophy.vercel.app/?username=cbboss404&row=1&column=7" />
+</p>
 
 - 🌱 I’m currently learning **C# and Java**
 
@@ -13,26 +23,29 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://user-images.githubusercontent.com/72242060/139433738-efc8aa5d-b865-40d8-a082-920555eef666.png" alt="cs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/72242060/139436054-f75a5c65-5337-44dc-b274-6dc6dab98d5f.png" alt="javascript" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/72242060/139435054-393912e7-2405-477f-96e8-2ecb6d480292.png" alt="php" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://user-images.githubusercontent.com/72242060/139433738-efc8aa5d-b865-40d8-a082-920555eef666.png" alt="cs" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/72242060/139436054-f75a5c65-5337-44dc-b274-6dc6dab98d5f.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/72242060/139435054-393912e7-2405-477f-96e8-2ecb6d480292.png" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+</p>
+
 
 <a href="https://github.com/cbboss404/cbboss404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbboss404&hide=html,css&title_color=e683d9&icon_color=0480ef&text_color=75eeb2&bg_color=193549" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbboss404&hide=html,css&title_color=e683d9&icon_color=0480ef&text_color=75eeb2&bg_color=193549" /></a> 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbboss404&show_icons=true&theme=cobalt)
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbboss404&,"  alt="cbboss404" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbboss404&"  alt="cbboss404" /></p>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+© 2021 Phongphu
 
 
 
