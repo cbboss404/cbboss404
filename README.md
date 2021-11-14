@@ -4,21 +4,21 @@
   <h2 align = "center">Hi 👋, I'm Nguyễn Phong Phú </h2>
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=cbboss404&label=Profile%20views&color=0e75b6&style=flat" alt="cbboss404" /> 
+  <img src="https://komarev.com/ghpvc/?username=phongphu1042&label=Profile%20views&color=0e75b6&style=flat" alt="phongphu1042" /> 
   <a href="https://github.com/sponsors/ryo-ma">
     <img src = "https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" /> 
   </a>
 </p>
 
 <p align = "center">
-  <img alig src = "https://github-profile-trophy.vercel.app/?username=cbboss404&row=1&column=7" />
+  <img alig src = "https://github-profile-trophy.vercel.app/?username=phongphu1042&row=1&column=7" />
 </p>
 
-- 🌱 I’m currently learning **C# and Java**
+- 🌱 I’m currently learning **C#, PHP, and Java**
 
-- 💬 Ask me about [Comemt](https://github.com/cbboss404/cbboss404/discussions)
+- 💬 Ask me about [Comemt](https://github.com/phongphu1042/phongphu1042/discussions)
 
-- 📫 How to reach me <a href="mailto:phongphu1042@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/72242060/139431871-cc97ad6a-11f0-4969-973b-84eedebd0590.png" height="30" width="" /></a> | <a href="https://fb.com/1042phongphu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cbboss404" height="30" width="40" /></a>
+- 📫 How to reach me <a href="mailto:phongphu1042@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/72242060/139431871-cc97ad6a-11f0-4969-973b-84eedebd0590.png" height="30" width="" /></a> | <a href="https://fb.com/1042phongphu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phongphu1042" height="30" width="40" /></a>
 
 
 
@@ -38,11 +38,11 @@
 </p>
 
 
-<a href="https://github.com/cbboss404/cbboss404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbboss404&hide=html,css&title_color=e683d9&icon_color=0480ef&text_color=75eeb2&bg_color=193549" /></a> 
+<a href="https://github.com/phongphu1042/phongphu1042">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongphu1042&hide=html,css&title_color=e683d9&icon_color=0480ef&text_color=75eeb2&bg_color=193549" /></a> 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbboss404&show_icons=true&theme=cobalt)
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbboss404&,"  alt="cbboss404" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phongphu1042&,"  alt="phongphu1042" /></p>
 
 
 © 2021 Phongphu
